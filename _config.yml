@@ -1,4 +1,3 @@
-remote_theme: leakyabstractions/pretty-docs
 url: https://ejkiv.github.io
 baseurl: /pria-docs
 title: &site_title Pria Docs
